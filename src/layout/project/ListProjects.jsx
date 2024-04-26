@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import ProjectDisplay from "./ProjectDisplay";
 import { useLoadingContext } from "../context/LoadingContext";
 import ProjectCard from "./ProjectCard";
 
